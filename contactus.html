@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+				<html>
+					<head>
+							<title>contact us</title>
+				    </head>
+					<style>
+					.k1{
+					background-color: #d8e84b:
+					}
+					
+					.ku{
+					background-color: #8ae9e0  ;
+		
+				
+					}
+					body{
+					background-color: #8ae9e0  ;
+		
+					}
+					</style>
+					<body>
+								<div class="k1">
+								<h1>contact us</h1>
+								<form>
+										<tr>
+										<div class="ku"><td>nama :</td>
+										<div class="ku"><td><input placeholder=''nama"  type="text"></br></td>
+										</tr>
+										<tr>
+										<div class="ku"><td>e-mail :</td>
+										<div class="ku"><td><input placeholder=''e-mail"  type="email"></br></td>
+										</tr>
+										<tr>
+										<div class="ku"><P><td>masukkan pesan:</td></p>
+										<div class="ku"><td><textarea placeholder=''masukkan pesan"  rows="3" cols="33"></textarea></br></td>
+										</tr>
+										
+										<table>
+										<tr>
+										<td></td>
+										<td><input name="kirim" type="submit"></td>
+										</tr>
+								</table>
+								</form>
+					</body>
+					</html>
+					
